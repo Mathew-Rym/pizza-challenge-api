@@ -41,7 +41,7 @@ A simple Flask API to manage restaurants and their pizzas.
 
 ### 1. Clone the repo and navigate into the cloned repository
 ```bash
- git clone https://git@github.com:Mathew-Rym/pizza-challenge-api.git
+ git clone https://git@github.com:Mathew-Rym/pizza-challenge-api-v1.git
  cd pizza-api-challenge
 ```
 ---
